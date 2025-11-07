@@ -177,15 +177,15 @@ function App() {
         <div className="contact-grid">
           <div className="contact-card">
             <h3 className="contact-name">Subina Thapa</h3>
-            <p className="contact-phone"> 9741698460</p>
+            <p className="contact-phone"> 9</p>
           </div>
           <div className="contact-card">
             <h3 className="contact-name">Subin Thapa</h3>
-            <p className="contact-phone"> 9843184880</p>
+            <p className="contact-phone"> 9</p>
           </div>
           <div className="contact-card">
             <h3 className="contact-name">Nalina thapa</h3>
-            <p className="contact-phone">9845873883</p>
+            <p className="contact-phone">9</p>
           </div>
         </div>
       </section>
